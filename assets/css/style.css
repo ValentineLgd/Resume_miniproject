@@ -384,3 +384,8 @@ button[type="submit"] {
 }
 
 }
+
+/*-----Map----*/
+#map {
+    height: 350px;
+}
